@@ -1,0 +1,1 @@
+Microsoft Access is used to store the data from .ged file. Project04.java is the file for reading the gedcom file. TestCase.java contains the constraints that have been imposed on data. TestCaseTest.java is the file for test cases.
