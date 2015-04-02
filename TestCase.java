@@ -129,7 +129,7 @@ public class TestCase
 	
 	public static void IsNameValid(ResultSet rs) throws SQLException
 	{       
-                System.out.println("---------------------------------Given Name verification verification---------------------------------");
+                System.out.println("---------------------------------Given Name should be character     verification---------------------------------");
 		while(rs.next())
 		{
                     try{
@@ -146,7 +146,7 @@ public class TestCase
 	
 	public static void IsNameNotNull(ResultSet rs) throws SQLException
 	{
-                System.out.println("---------------------------------Given Name verification---------------------------------");
+                System.out.println("---------------------------------Given Name should not be null verification---------------------------------");
 		while(rs.next())
 		{
                     try{

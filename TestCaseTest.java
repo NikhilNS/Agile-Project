@@ -41,7 +41,9 @@ public class TestCaseTest {
         System.out.println("main");
         String[] arg = null;
         TestCase.main(arg);
-     }
+        // TODO review the generated test code and remove the default call to fail.
+        //fail("The test case is a prototype.");
+    }
 
     /**
      * Test of PhNo method, of class TestCase.
@@ -50,7 +52,10 @@ public class TestCaseTest {
     public void testPhNo() throws Exception {
         System.out.println("PhNo");
         ResultSet rs = null;
-        }
+       // TestCase.PhNo(rs);
+        // TODO review the generated test code and remove the default call to fail.
+        //fail("The test case is a prototype.");
+    }
 
     /**
      * Test of Email method, of class TestCase.
@@ -59,6 +64,9 @@ public class TestCaseTest {
     public void testEmail() throws Exception {
         System.out.println("Email");
         ResultSet rs = null;
+        //TestCase.Email(rs);
+        // TODO review the generated test code and remove the default call to fail.
+        //fail("The test case is a prototype.");
     }
 
     /**
@@ -68,6 +76,9 @@ public class TestCaseTest {
     public void testWorkPersonalPh() throws Exception {
         System.out.println("WorkPersonalPh");
         ResultSet rs = null;
+       // TestCase.WorkPersonalPh(rs);
+        // TODO review the generated test code and remove the default call to fail.
+        //fail("The test case is a prototype.");
     }
 
     /**
@@ -77,6 +88,9 @@ public class TestCaseTest {
     public void testResiPersonalPh() throws Exception {
         System.out.println("ResiPersonalPh");
         ResultSet rs = null;
+       // TestCase.ResiPersonalPh(rs);
+        // TODO review the generated test code and remove the default call to fail.
+        //fail("The test case is a prototype.");
     }
 
     /**
@@ -86,6 +100,9 @@ public class TestCaseTest {
     public void testResiWorkPh() throws Exception {
         System.out.println("ResiWorkPh");
         ResultSet rs = null;
+       // TestCase.ResiWorkPh(rs);
+        // TODO review the generated test code and remove the default call to fail.
+        //fail("The test case is a prototype.");
     }
 
     /**
@@ -95,6 +112,9 @@ public class TestCaseTest {
     public void testIsNameValid() throws Exception {
         System.out.println("IsNameValid");
         ResultSet rs = null;
+      //  TestCase.IsNameValid(rs);
+        // TODO review the generated test code and remove the default call to fail.
+        //fail("The test case is a prototype.");
     }
 
     /**
@@ -104,5 +124,8 @@ public class TestCaseTest {
     public void testIsNameNotNull() throws Exception {
         System.out.println("IsNameNotNull");
         ResultSet rs = null;
+      //  TestCase.IsNameNotNull(rs);
+        // TODO review the generated test code and remove the default call to fail.
+        //fail("The test case is a prototype.");
     }
 }
